@@ -15,7 +15,7 @@ function Navigation()
     <p className="title"><i class="gg-monday titlecon"></i>Artemis</p>
     <hr></hr>
     <p className="headings">Main</p>
-    <div  className="navdiv"><i class="fas fa-tachometer-alt"></i><p className="navlist">Dashboard</p><img className="navcon" src="https://lh3.googleusercontent.com/proxy/Eg7d9VZvgFpoyOum1NU6Nh3wkcFbYq1odBs4jo5iOYQRVNvU_aro1xMjBTSJN3wbFx8yggODiRxhGnwzUJLq9ndbwvHEoKn5_nBZbU3klj0"></img></div>
+    <div  className="navdiv"><i class="fas fa-tachometer-alt"></i><p className="navlist">Dashboard</p><img className="navcon" src="https://img-premium.flaticon.com/png/512/60/60781.png?token=exp=1622316944~hmac=753dadcc6548b4e2cb53ebddc8be5001"></img></div>
     <div  className="navdiv"><i class="fas fa-globe"></i><p className="navlist">Discover</p><img className="navcon" src="https://img-premium.flaticon.com/png/512/60/60781.png?token=exp=1622316944~hmac=753dadcc6548b4e2cb53ebddc8be5001"></img></div>
     <div  className="navdiv"><i class="fas fa-portrait"></i><p className="navlist">Users</p><img className="navcon" src="https://img-premium.flaticon.com/png/512/60/60781.png?token=exp=1622316944~hmac=753dadcc6548b4e2cb53ebddc8be5001"></img></div>
     <div  className="navdiv"><i class="fas fa-book-open"></i><p className="navlist">Documents</p><img className="navcon" src="https://img-premium.flaticon.com/png/512/60/60781.png?token=exp=1622316944~hmac=753dadcc6548b4e2cb53ebddc8be5001"></img></div>
